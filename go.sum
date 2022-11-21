@@ -1,0 +1,4 @@
+github.com/lib/pq v1.10.7 h1:p7ZhMD+KsSRozJr34udlUrhboJwWAgCg34+/ZZNvZZw=
+github.com/lib/pq v1.10.7/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/mario-pac/goarea v0.0.0-20221118145528-625a445035bb h1:Gy9HZdSwksAjL8LBHAkAUG+JZ3H57TNQpm/wtl+ZEGc=
+github.com/mario-pac/goarea v0.0.0-20221118145528-625a445035bb/go.mod h1:2F+bDBIX9s/oT0u10OgppekApLrVbbZMXt18fJ6Rcrc=
